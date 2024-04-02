@@ -1,0 +1,11 @@
+h1 {
+    color: purple;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+}
+.botãozinho {
+    padding: 16px 32px;
+    background-color: blueviolet;
+    color: aliceblue;
+}
